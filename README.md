@@ -26,7 +26,7 @@ Soy estudiante de Ingeniería en Software (Generación 2026) especializado en el
 - ☁️ **Cloud & Seguridad:** Formación activa en AWS Academy (Cloud Security, Gen AI).
 - 🐧 **Entorno:** Usuario de Linux (CachyOS + KDE Plasma).
 - 🎧 **Fuera del código:** Productor de música electrónica bajo el alias **KAZE** (FL Studio) y jugador de Valorant/LoL.
-- 💼 **Disponibilidad:** Buscando oportunidades para Estadía Industrial en Monterrey a partir de septiembre 2026.
+- 💼 **Disponibilidad:** Buscando oportunidades para Estadía en Monterrey.
 
 ---
 
